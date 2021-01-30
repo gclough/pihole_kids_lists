@@ -1,0 +1,11 @@
+#=====================================
+# Misc hosts
+# http://github.com/gclough
+
+0.0.0.0 reddit.com
+0.0.0.0 redd.it
+0.0.0.0 twitch.tv
+0.0.0.0 amazon.co.uk
+0.0.0.0 amazon.com
+
+# END

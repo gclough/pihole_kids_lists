@@ -1,0 +1,13 @@
+#=====================================
+# YouTube (plus other streaming) hosts
+# http://github.com/gclough
+
+0.0.0.0 youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 youtube.co.uk
+0.0.0.0 ytimg.com
+0.0.0.0 googlevideo.com
+0.0.0.0 ytimg.l.google.com
+0.0.0.0 vimeo.com
+
+# END
