@@ -1,0 +1,35 @@
+#=====================================
+# Misc hosts
+# http://github.com/gclough
+
+0.0.0.0 reddit.com
+0.0.0.0 redd.it
+0.0.0.0 meme-arsenal.com
+0.0.0.0 www.meme-arsenal.com
+0.0.0.0 narvii.com
+0.0.0.0 www.narvii.com
+0.0.0.0 pm1.narvii.com
+0.0.0.0 memecdn.com
+0.0.0.0 img.memecdn.com
+0.0.0.0 memedroid.com
+0.0.0.0 images3.memedroid.com
+0.0.0.0 imgflip.com
+0.0.0.0 www.imgflip.com
+0.0.0.0 i.imgflip.com
+0.0.0.0 me.me
+0.0.0.0 www.me.me
+0.0.0.0 pics.me.me
+0.0.0.0 17qq.com
+0.0.0.0 www.17qq.com
+0.0.0.0 img.17qq.com
+0.0.0.0 memestatic.fjcdn.com
+0.0.0.0 giphy.com
+0.0.0.0 www.giphy.com
+0.0.0.0 knowyourmeme.com
+0.0.0.0 www.knowyourmeme.com
+0.0.0.0 imgur.com
+0.0.0.0 www.imgur.com
+0.0.0.0 tumblr.com
+0.0.0.0 www.tumblr.co
+
+# END
