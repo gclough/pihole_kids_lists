@@ -1,0 +1,26 @@
+#=====================================
+# Search Engine hosts
+# http://github.com/gclough
+
+0.0.0.0 google.com
+0.0.0.0 www.google.com
+0.0.0.0 google.co.uk
+0.0.0.0 www.google.co.uk
+0.0.0.0 bing.com
+0.0.0.0 www.bing.com
+0.0.0.0 duckduckgo.com
+0.0.0.0 www.duckduckgo.com
+0.0.0.0 yahoo.com
+0.0.0.0 www.yahoo.com
+0.0.0.0 yahoo.co.uk
+0.0.0.0 www.yahoo.co.uk
+0.0.0.0 yandex.com
+0.0.0.0 www.yandex.com
+0.0.0.0 ask.com
+0.0.0.0 www.ask.com
+0.0.0.0 aol.com
+0.0.0.0 www.aol.com
+0.0.0.0 ecosia.com
+0.0.0.0 www.ecosia.com
+
+# END
