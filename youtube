@@ -3,11 +3,15 @@
 # http://github.com/gclough
 
 0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
 0.0.0.0 m.youtube.com
 0.0.0.0 youtube.co.uk
+0.0.0.0 www.youtube.co.uk
 0.0.0.0 ytimg.com
 0.0.0.0 googlevideo.com
+0.0.0.0 www.googlevideo.com
 0.0.0.0 ytimg.l.google.com
 0.0.0.0 vimeo.com
+0.0.0.0 www.vimeo.com
 
 # END
