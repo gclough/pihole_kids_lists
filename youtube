@@ -15,6 +15,7 @@
 0.0.0.0 youtubei.googleapis.com
 0.0.0.0 ytimg.l.google.com
 0.0.0.0 ytimg.com
+0.0.0.0 i.ytimg.com
 0.0.0.0 googlevideo.com
 0.0.0.0 www.googlevideo.com
 0.0.0.0 redirector.googlevideo.com
@@ -24,5 +25,9 @@
 0.0.0.0 youtube-ui.l.google.com
 0.0.0.0 ytstatic.l.google.com
 0.0.0.0 googleapis.com
+0.0.0.0 fonts.googleapis.com
+0.0.0.0 fonts.gstatic.com
+0.0.0.0 gstaticadssl.l.google.com
+0.0.0.0 fcmconnection.googleapis.com
 
 # END
