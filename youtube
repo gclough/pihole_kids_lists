@@ -8,6 +8,12 @@
 0.0.0.0 youtube.co.uk
 0.0.0.0 www.youtube.co.uk
 0.0.0.0 youtu.be
+0.0.0.0 youtube.be
+0.0.0.0 www.youtube.be
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 youtube.googleapis.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 ytimg.l.google.com
 0.0.0.0 ytimg.com
 0.0.0.0 googlevideo.com
 0.0.0.0 www.googlevideo.com
@@ -15,5 +21,8 @@
 0.0.0.0 ytimg.l.google.com
 0.0.0.0 vimeo.com
 0.0.0.0 www.vimeo.com
+0.0.0.0 youtube-ui.l.google.com
+0.0.0.0 ytstatic.l.google.com
+0.0.0.0 googleapis.com
 
 # END
