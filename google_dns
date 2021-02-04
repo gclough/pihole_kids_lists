@@ -1,0 +1,11 @@
+#=====================================
+# Google DNS hosts
+# http://github.com/gclough
+
+# Microsoft Edge uses this to bypass local DNS.
+# If you block it, then it defaults to using the network settings.
+# Sneaky Microsoft!
+
+0.0.0.0 dns.google
+
+# END
