@@ -30,4 +30,16 @@
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 fcmconnection.googleapis.com
 
+#
+# Crunchyroll
+#
+0.0.0.0 crunchyroll.com
+0.0.0.0 www.crunchyroll.com
+0.0.0.0 eec.crunchyroll.com
+0.0.0.0 static.crunchyroll.com
+0.0.0.0 pl.crunchyroll.com
+0.0.0.0 beta-api.crunchyroll.com
+0.0.0.0 sa.crunchyroll.com
+0.0.0.0 img1.ak.crunchyroll.com
+
 # END
