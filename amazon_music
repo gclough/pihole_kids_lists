@@ -1,0 +1,24 @@
+#=====================================
+# Amazon Music hosts
+# http://github.com/gclough
+
+0.0.0.0 music.amazon.com.br
+0.0.0.0 music.amazon.ca
+0.0.0.0 music.amazon.com.mx
+0.0.0.0 music.amazon.com
+0.0.0.0 music.amazon.cn
+0.0.0.0 music.amazon.in
+0.0.0.0 music.amazon.co.j
+0.0.0.0 music.amazon.sg
+0.0.0.0 music.amazon.com.tr
+0.0.0.0 music.amazon.ae
+0.0.0.0 music.amazon.sa
+0.0.0.0 music.amazon.fr
+0.0.0.0 music.amazon.de
+0.0.0.0 music.amazon.it
+0.0.0.0 music.amazon.nl
+0.0.0.0 music.amazon.pl
+0.0.0.0 music.amazon.es
+0.0.0.0 music.amazon.se
+0.0.0.0 music.amazon.co.uk
+0.0.0.0 music.amazon.com.au
