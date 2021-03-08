@@ -29,6 +29,7 @@
 0.0.0.0 fonts.gstatic.com
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 fcmconnection.googleapis.com
+0.0.0.0 yt3.ggpht.com
 
 #
 # Crunchyroll
