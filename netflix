@@ -1,0 +1,13 @@
+#=====================================
+# Netflix (plus other streaming) hosts
+# http://github.com/gclough
+
+0.0.0.0 netflix.com
+0.0.0.0 www.netflix.com
+0.0.0.0 nflxso.net
+0.0.0.0 ichnaea-web.netflix.com
+0.0.0.0 ios.prod.cloud.netflix.com
+0.0.0.0 mobile-ixanycast.ftl.netflix.com
+0.0.0.0 occ-0-179-1167.1.nflxso.net
+
+# END
