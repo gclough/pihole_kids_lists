@@ -40,5 +40,17 @@
 0.0.0.0 twitch.tv
 0.0.0.0 9gag.com
 0.0.0.0 krunker.io
+0.0.0.0 log-upload-os.mihoyo.com
+0.0.0.0 minor-api-os.mihoyo.com
+0.0.0.0 webstatic-sea.mihoyo.com
+0.0.0.0 webstatic-sea.mihoyo.com.w.kunlunsl.com
+0.0.0.0 uploadstatic-sea.mihoyo.com
+0.0.0.0 uploadstatic-sea.mihoyo.com.w.kunlunsl.com
+0.0.0.0 hk4e-sdk-os.mihoyo.com
+0.0.0.0 hk4e-api-os.mihoyo.com
+0.0.0.0 hk4e-api-os-static.mihoyo.com
+0.0.0.0 hk4e-api-os-static.mihoyo.com.a.lahuashanbx.com
+0.0.0.0 sdk-os-static.mihoyo.com
+0.0.0.0 sdk-os-static.mihoyo.com.a.lahuashanbx.com
 
 # END
