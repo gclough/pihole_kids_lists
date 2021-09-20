@@ -48,4 +48,10 @@
 0.0.0.0 sa.crunchyroll.com
 0.0.0.0 img1.ak.crunchyroll.com
 
+#
+# Other streaming
+#
+0.0.0.0 freestar-io.videoplayerhub.com
+0.0.0.0 videoplayerhub.com
+
 # END
