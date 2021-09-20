@@ -39,7 +39,6 @@
 0.0.0.0 veoh.com
 0.0.0.0 twitch.tv
 0.0.0.0 9gag.com
-0.0.0.0 krunker.io
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 minor-api-os.mihoyo.com
 0.0.0.0 webstatic-sea.mihoyo.com
@@ -56,5 +55,6 @@
 0.0.0.0 api.krunker.io
 0.0.0.0 matchmaker.krunker.io
 0.0.0.0 assets.krunker.io
+0.0.0.0 social.krunker.io
 
 # END
