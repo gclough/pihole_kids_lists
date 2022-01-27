@@ -22,3 +22,8 @@
 0.0.0.0 music.amazon.se
 0.0.0.0 music.amazon.co.uk
 0.0.0.0 music.amazon.com.au
+
+0.0.0.0 soundcloud.com
+0.0.0.0 s.pwt.soundcloud.com
+0.0.0.0 api.soundcloud.com
+0.0.0.0 api-v2.soundcloud.com
