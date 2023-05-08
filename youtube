@@ -57,6 +57,10 @@
 0.0.0.0 www.9animetv.to
 0.0.0.0 rumble.com
 0.0.0.0 www.rumble.com
-
+0.0.0.0 edge-player.wirewax.com
+0.0.0.0 jwplayer.com
+0.0.0.0 cdn.jwplayer.com
+0.0.0.0 www.jwplayer.com
+0.0.0.0 videos-cloudfront.jwpsrv.com
 
 # END
