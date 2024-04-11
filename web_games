@@ -123,4 +123,10 @@
 0.0.0.0 analytics.nianticlabs.com
 0.0.0.0 nianticlabs.com
 0.0.0.0 maptiles.nianticlabs.com
+0.0.0.0 proxy.gxcorner.games
+0.0.0.0 games
+0.0.0.0 hoyoverse.com
+0.0.0.0 doppiostreams.com
+0.0.0.0 metrics.doppiostreams.com
+0.0.0.0 eventstream.ring.com
 # END
