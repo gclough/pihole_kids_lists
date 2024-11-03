@@ -11,5 +11,21 @@
 0.0.0.0 features.opera-api.com
 0.0.0.0 opera.com
 0.0.0.0 www.opera.com
+0.0.0.0 autoupdate.geo.opera.com
+0.0.0.0 weather.opera-api.com
+0.0.0.0 af.opera.com
+0.0.0.0 sitecheck.opera.com
+0.0.0.0 cashback-api-production.operacdn.com
+0.0.0.0 operacdn.com
+0.0.0.0 features.opera-api.com
+0.0.0.0 exchange.opera.com
+0.0.0.0 extension-updates.opera.com
+0.0.0.0 desktop-qualityclient-sub.osp.opera.software
+0.0.0.0 opera-api2.com
+0.0.0.0 opera.software
+0.0.0.0 feednews.com
+0.0.0.0 opera-api.com
+0.0.0.0 operacdn.com
+0.0.0.0 opera-mini.net
 
 # END
